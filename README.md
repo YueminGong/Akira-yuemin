@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Akira-yuemin
+- 👋 Hi, I’m @Akira-yuemin mechanical engineering student in hkust
 - 👀 I’m interested in robotics design and control, AI algorithms, and computer vision 
 - 🌱 I’m currently learning to use a depth camera to scan, sense, and do human-robot interaction.
 - 💞️ I’m looking to collaborate on UR robot or Soft robot applications including human interaction, VR control, etc...
