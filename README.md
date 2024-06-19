@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Akira-yuemin Mechanical Engineering student in hkust
+- 👋 Hi, I’m @Akira-yuemin Researcher, Mechanical Engineer graduate from HKUST
 - 👀 I’m interested in robotics design and control, AI algorithms, and computer vision 
 - 🌱 I’m currently learning depth in 3d reconstruction, sensing, and human-robot interaction.
 - 💞️ I’m looking to collaborate on UR robot or Soft robot applications, including human interaction, VR control, etc...
