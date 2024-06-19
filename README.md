@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Akira-yuemin mechanical engineering student in hkust
 - 👀 I’m interested in robotics design and control, AI algorithms, and computer vision 
-- 🌱 I’m currently learning to use a depth camera to scan, sense, and human-robot interaction.
+- 🌱 I’m currently learning depth in 3d reconstruction, sensing, and human-robot interaction.
 - 💞️ I’m looking to collaborate on UR robot or Soft robot applications, including human interaction, VR control, etc...
 - 📫 How to reach me ygongah@connect.ust.hk or yuemingong918@gmail.com
 - 😄 Pronouns: ...robotics, computer vision, control
